@@ -6,6 +6,6 @@
 //   avec lui le site ouvre le questionnaire dans un nouvel onglet au lieu de l'afficher dans la page.
 // Tant que formUrl est vide, la section « Donner son avis » et ses boutons restent cachés.
 window.HP = {
-  formUrl: "",
+  formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdOjCC2cm_ldsw0fq1bXeRHz9pU3esBhvdFDoCW5fboqLxC5g/viewform?usp=header",
   instagramUrl: "https://www.instagram.com/horsprogrammes/"
 };
